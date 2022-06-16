@@ -18,9 +18,13 @@
           <option name="url" value="https://rit.accenture.com/gitlab/cse/training-service-5.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@bitbucket.klp.no/of/oftpregistry-pension-decision-registry.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\elgars.upitis\Development" />
+    <option name="cloneParentDir" value="$USER_HOME$/Dev" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
