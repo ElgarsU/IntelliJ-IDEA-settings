@@ -3,14 +3,15 @@
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="PARAMETER_INFO_DELAY" value="500" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
   </component>
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
       <map>
-        <entry key="inheritors" value="Default" />
+        <entry key="inheritors" value="Right" />
         <entry key="problems" value="Default" />
         <entry key="references" value="Right" />
-        <entry key="vcs.code.vision" value="Default" />
+        <entry key="vcs.code.vision" value="Right" />
       </map>
     </option>
   </component>
