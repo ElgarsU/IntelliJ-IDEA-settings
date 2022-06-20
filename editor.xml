@@ -21,6 +21,6 @@
     <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value=".references" />
+    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
   </component>
 </application>
