@@ -26,6 +26,10 @@
           <option name="url" value="ssh://git@bitbucket.klp.no/cmp/casemanagement-pension-casework-presentation-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@bitbucket.klp.no/hum/humantask-advanced-task-search.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Dev" />
