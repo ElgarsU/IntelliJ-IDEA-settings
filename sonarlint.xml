@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.klp.no/" />
+          <option name="name" value="klp" />
+          <option name="login" value="eux" />
+          <password>dfdadfc3dfcfdfc9dfdfdfeadfd9dfdedfcbdfc4dfcedfcbdfd8dfdedfdfdf8adfebdfd8dfc1dfc6dfd9</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
