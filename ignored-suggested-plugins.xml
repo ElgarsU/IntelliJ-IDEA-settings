@@ -3,6 +3,8 @@
     <option name="pluginIds">
       <list>
         <option value="com.haulmont.jpab" />
+        <option value="com.intellij.bigdatatools" />
+        <option value="com.microsoft.tooling.msservices.intellij.azure" />
       </list>
     </option>
   </component>
