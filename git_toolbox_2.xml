@@ -1,7 +1,6 @@
 <application>
   <component name="GitToolBoxAppSettings2">
     <option name="absoluteDateTimeStyle" value="ISO_8601" />
-    <option name="autoFetchEnabled" value="false" />
     <option name="blameInlayConfig">
       <InlayBlameConfig>
         <option name="shortenToFitViewport" value="true" />
@@ -9,5 +8,6 @@
     </option>
     <option name="blameInlineShowSubject" value="false" />
     <option name="blameStatusAuthorNameType" value="FULL" />
+    <option name="version" value="6" />
   </component>
 </application>
