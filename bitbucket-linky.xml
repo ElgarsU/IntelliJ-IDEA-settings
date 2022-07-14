@@ -1,0 +1,14 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="6b6c0d32-5cab-3a99-9967-bcad35a45ee0" baseUri="http://bitbucket.klp.no/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="bitbucket.klp.no" port="-1" path="/" uuid="6b6c0d32-5cab-3a99-9967-bcad35a45ee0" />
+    </lookup>
+  </component>
+  <component name="Instance" id="1bd74161-fa30-4618-bb1f-4b03f64ee633" version="2022.1.200" />
+</application>
