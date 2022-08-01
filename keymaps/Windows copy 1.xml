@@ -1,3 +1,0 @@
-<keymap version="1" name="Windows copy 1" parent="$default">
-  <action id="DBNavigator.Actions.MainMenu.OpenSessionBrowser" />
-</keymap>
