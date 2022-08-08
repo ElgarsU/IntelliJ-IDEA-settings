@@ -2,4 +2,10 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="StretchSplitToLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl alt released left" />
+  </action>
+  <action id="StretchSplitToRight">
+    <keyboard-shortcut first-keystroke="shift ctrl alt released right" />
+  </action>
 </keymap>
