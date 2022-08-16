@@ -56,5 +56,12 @@
       <jdbc-url>jdbc:sqlserver://localhost:1433;database=SQLDB;encrypt=false;trustServerCertificate=true</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="reimbursementexchange-exchange" uuid="f04a3e2b-da7b-4d4a-8fc3-26bd59b85aa2">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost:1433;database=SQLDB;encrypt=false;trustServerCertificate=true</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
