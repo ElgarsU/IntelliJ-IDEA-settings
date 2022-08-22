@@ -1,4 +1,7 @@
 <keymap version="1" name="Keymap" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
@@ -9,6 +12,9 @@
   <action id="Android.Designer.PreviousDevice" />
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
