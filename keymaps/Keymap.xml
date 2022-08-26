@@ -16,6 +16,12 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="EditorScrollLeft">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorScrollRight">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl alt insert" />
