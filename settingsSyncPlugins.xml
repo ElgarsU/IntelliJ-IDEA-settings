@@ -179,6 +179,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.mnw.tabmover">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.samdark.intellij-visual-studio-code-dark-plus">
           <value>
             <PluginData>
