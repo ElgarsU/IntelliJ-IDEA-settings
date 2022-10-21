@@ -70,5 +70,12 @@
       <jdbc-url>jdbc:sqlserver://localhost:1433;database=SQLDB;encrypt=false;trustServerCertificate=true</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="prepayment-prepayment" uuid="d27e5bdd-2347-4d56-9a37-63ac148436be">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost:1433;database=SQLDB;encrypt=false;trustServerCertificate=true</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
