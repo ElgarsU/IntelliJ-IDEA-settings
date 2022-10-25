@@ -7,7 +7,7 @@
       </InlayBlameConfig>
     </option>
     <option name="blameInlineShowSubject" value="false" />
-    <option name="blameStatusAuthorNameType" value="FULL" />
+    <option name="commitMessageValidationEnabled" value="true" />
     <option name="version" value="6" />
   </component>
 </application>
