@@ -7,7 +7,16 @@
       </InlayBlameConfig>
     </option>
     <option name="blameInlineShowSubject" value="false" />
-    <option name="commitMessageValidationEnabled" value="true" />
+    <option name="commitMessageValidationConfig">
+      <CommitMessageValidationConfig>
+        <option name="regexConfig">
+          <RegexConfig>
+            <option name="expression" value="(?:fix|chore|docs|feat|refactor|style|test)(?:\(.*\))?: [A-Z].*\s#\d+" />
+            <option name="testInput" value="fix: NPPDEF-9781 update regulatorybasevalues version" />
+          </RegexConfig>
+        </option>
+      </CommitMessageValidationConfig>
+    </option>
     <option name="version" value="6" />
   </component>
 </application>
