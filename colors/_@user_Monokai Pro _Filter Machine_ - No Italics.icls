@@ -3,7 +3,7 @@
     <property name="created">2022-07-26T11:27:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.1.3.0.0</property>
-    <property name="modified">2022-11-03T11:51:34</property>
+    <property name="modified">2022-11-03T13:45:39</property>
     <property name="originalScheme">Monokai Pro (Filter Machine) - No Italics</property>
   </metaInfo>
   <colors>
@@ -678,7 +678,6 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="889ead" />
         <option name="BACKGROUND" value="12404b" />
         <option name="ERROR_STRIPE_COLOR" value="3a5f7d" />
       </value>
