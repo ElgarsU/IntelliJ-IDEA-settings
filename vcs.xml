@@ -158,6 +158,10 @@
           <option name="url" value="ssh://git@bitbucket.klp.no/rul/rules-reimbursement-calculation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@bitbucket.klp.no/dpc/disabilitypensioncasework-portal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev" />
