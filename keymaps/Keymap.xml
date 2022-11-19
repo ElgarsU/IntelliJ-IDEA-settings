@@ -62,6 +62,9 @@
   <action id="StretchSplitToRight">
     <keyboard-shortcut first-keystroke="shift ctrl alt released right" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
+  </action>
   <action id="WebOpenInAction" />
   <action id="com.mnw.tabmover.actions.MoveFocusToNextWindow" />
   <action id="com.mnw.tabmover.actions.MoveFocusToPreviousWindow" />
