@@ -17,6 +17,7 @@
         </option>
       </CommitMessageValidationConfig>
     </option>
+    <option name="startupNotificationVersion" value="1" />
     <option name="version" value="6" />
   </component>
 </application>
