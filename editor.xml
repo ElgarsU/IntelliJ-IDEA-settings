@@ -3,6 +3,7 @@
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="PARAMETER_INFO_DELAY" value="500" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="HIGHLIGHT_BRACES" value="false" />
   </component>
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
@@ -37,6 +38,7 @@
         <entry key="VTL" value="true" />
         <entry key="XHTML" value="true" />
         <entry key="XML" value="true" />
+        <entry key="kotlin" value="false" />
         <entry key="protobuf" value="true" />
         <entry key="yaml" value="true" />
       </map>
@@ -44,6 +46,7 @@
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
   <component name="InlayHintsSettings">
