@@ -2,8 +2,7 @@
   <component name="AtomFileIconsConfig">
     <option name="monochromeColor" value="546e7a" />
     <option name="arrowsStyle" value="Arrows" />
-    <option name="accentColor" value="b8cfe5" />
-    <option name="themedColor" value="bbbbbb" />
+    <option name="hasBigIcons" value="true" />
     <option name="customIconSize" value="15" />
   </component>
 </application>
