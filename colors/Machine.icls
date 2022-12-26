@@ -1,17 +1,17 @@
-<scheme name="_@user_Monokai Pro (Filter Machine) - No Italics" version="142" parent_scheme="Darcula">
+<scheme name="Machine" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-12-26T19:49:45</property>
+    <property name="created">2022-12-26T20:08:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.3.1.0.0</property>
-    <property name="modified">2022-12-26T20:08:25</property>
-    <property name="originalScheme">Monokai Pro (Filter Machine) - No Italics</property>
+    <property name="modified">2022-12-26T20:40:44</property>
+    <property name="originalScheme">_@user_Monokai Pro (Filter Machine) - No Italics</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="a2e57b" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="f2fffc" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="273136" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="ff6d7e" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
@@ -37,7 +37,7 @@
     <option name="FILESTATUS_addedOutside" value="a2e57b" />
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="7cd5f1" />
-    <option name="GUTTER_BACKGROUND" value="273136" />
+    <option name="GUTTER_BACKGROUND" value="2b2d30" />
     <option name="INDENT_GUIDE" value="2b2d30" />
     <option name="INFORMATION_HINT" value="3a4449" />
     <option name="LINE_NUMBERS_COLOR" value="545f62" />
@@ -70,12 +70,12 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="273136" />
     <option name="ScrollBar.Transparent.thumbColor" value="3a4449" />
     <option name="ScrollBar.Transparent.trackColor" value="273136" />
-    <option name="ScrollBar.hoverThumbColor" value="3a4449" />
+    <option name="ScrollBar.hoverThumbColor" value="2b2d30" />
     <option name="ScrollBar.hoverTrackColor" value="273136" />
-    <option name="ScrollBar.thumbColor" value="3a4449" />
+    <option name="ScrollBar.thumbColor" value="2b2d30" />
     <option name="ScrollBar.trackColor" value="273136" />
-    <option name="TAB_UNDERLINE" value="ffed72" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="ffed72" />
+    <option name="TAB_UNDERLINE" value="72ffc9" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="" />
     <option name="TEARLINE_COLOR" value="303a3e" />
     <option name="TOOLTIP" value="3a4449" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="6b7678" />
@@ -678,7 +678,7 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="12404b" />
+        <option name="BACKGROUND" value="6f147b" />
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
@@ -3317,12 +3317,12 @@
     </option>
     <option name="TAB_SELECTED">
       <value>
-        <option name="FOREGROUND" value="ffed72" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="798384" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -3333,7 +3333,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f2fffc" />
-        <option name="BACKGROUND" value="19191a" />
+        <option name="BACKGROUND" value="1e1f22" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
