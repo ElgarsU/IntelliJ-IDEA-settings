@@ -1,6 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="nodejsPath" value="/opt/nodejs/default/bin/node" />
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S106">
+          <value>
+            <Rule active="false" key="java:S106" />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -8,6 +17,11 @@
           <option name="name" value="klp" />
           <option name="login" value="eux" />
           <password>dfdadfc3dfcfdfc9dfdfdfeadfd9dfdedfcbdfc4dfcedfcbdfd8dfdedfdfdf8adfebdfd8dfc1dfc6dfd9</password>
+        </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar-kalypso-builder-pensjon.apps.aro1.az.dev.klp.no" />
+          <token>dfd9dfdbdfdfdff5df9adfcedfc8dfc8df9cdfcedfcedfcbdf92df92df9edf99dfccdfcfdfc9df9fdfc9df9fdf9adf92dfc9dfcedf9cdf9ddfc9df9bdf9adfccdfcedfcedfcbdfcbdf99dfcbdf9edf99df92dfcbdf9adf98</token>
+          <option name="name" value="sonar-kalypso" />
         </SonarQubeServer>
       </list>
     </option>
