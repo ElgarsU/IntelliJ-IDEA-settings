@@ -1,6 +1,0 @@
-<keymap version="1" name="Windows copy" parent="$default">
-  <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="shift space" />
-  </action>
-</keymap>
