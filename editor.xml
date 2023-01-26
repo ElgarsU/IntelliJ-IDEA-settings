@@ -57,8 +57,4 @@
     </option>
     <option name="lastViewedProviderKeyId" value="JAVA.java.implicit.types" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
 </application>
