@@ -2,11 +2,8 @@
   <component name="IgnoredPluginSuggestions">
     <option name="pluginIds">
       <list>
-        <option value="com.haulmont.jpab" />
-        <option value="com.intellij.bigdatatools" />
-        <option value="com.microsoft.tooling.msservices.intellij.azure" />
-        <option value="com.jetbrains.jax.ws" />
-        <option value="com.intellij.javaee.batch" />
+        <option value="com.intellij.selenium" />
+        <option value="com.intellij.aqua" />
       </list>
     </option>
   </component>
