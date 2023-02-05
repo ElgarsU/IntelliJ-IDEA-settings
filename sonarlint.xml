@@ -8,6 +8,11 @@
             <Rule active="false" key="java:S106" />
           </value>
         </entry>
+        <entry key="java:S1220">
+          <value>
+            <Rule active="false" key="java:S1220" />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="sonarQubeServers">
@@ -26,6 +31,7 @@
       </list>
     </option>
     <rules>
+      <Rule active="false" key="java:S1220" />
       <Rule active="false" key="java:S106" />
     </rules>
   </component>
