@@ -21,7 +21,7 @@
         <option value="JAVA.java.implicit.types" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="" />
+    <option name="lastViewedProviderKeyId" value="JAVA.parameter.hints.old.java.clear.expression.type" />
     <settingsMapElement>
       <kotlin.kotlin.references.types.hints>
         <Settings>
@@ -31,11 +31,6 @@
           <option name="propertyType" value="true" />
         </Settings>
       </kotlin.kotlin.references.types.hints>
-      <JAVA.annotation.hints>
-        <Settings>
-          <option name="showInferred" value="true" />
-        </Settings>
-      </JAVA.annotation.hints>
       <SQL.sql.join.cardinality.hints>
         <Settings>
           <option name="showForFullJoin" value="true" />
